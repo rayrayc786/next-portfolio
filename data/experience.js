@@ -1,0 +1,47 @@
+export const experience = [
+  {
+    id: 1,
+    company: "TechVision Solutions",
+    role: "Senior Frontend Developer",
+    duration: "Jan 2023 — Present",
+    location: "Mumbai, India",
+    description: "Leading frontend development for enterprise web applications",
+    achievements: [
+      "Architected and developed a component library used across 5+ products, improving development speed by 40%",
+      "Optimized application performance, reducing load time by 60% through code splitting and lazy loading",
+      "Mentored 3 junior developers, conducting code reviews and technical workshops",
+      "Implemented comprehensive accessibility features achieving WCAG 2.1 AA compliance",
+    ],
+    technologies: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+  },
+  {
+    id: 2,
+    company: "Digital Innovations Lab",
+    role: "Frontend Developer",
+    duration: "Mar 2021 — Dec 2022",
+    location: "Bangalore, India",
+    description: "Built responsive web applications for diverse clients",
+    achievements: [
+      "Developed 15+ responsive websites and web applications using React and Next.js",
+      "Collaborated with designers to transform Figma designs into pixel-perfect UI components",
+      "Integrated RESTful APIs and managed state using Redux and Context API",
+      "Reduced bug reports by 35% through implementation of comprehensive unit testing",
+    ],
+    technologies: ["React", "JavaScript", "CSS Modules", "Node.js", "MongoDB"],
+  },
+  {
+    id: 3,
+    company: "StartupHub",
+    role: "Junior Frontend Developer",
+    duration: "Jun 2020 — Feb 2021",
+    location: "Delhi, India",
+    description: "Contributed to multiple client projects in an agile environment",
+    achievements: [
+      "Built reusable UI components following atomic design principles",
+      "Implemented responsive designs ensuring cross-browser compatibility",
+      "Participated in daily standups and sprint planning sessions",
+      "Learned modern frontend practices through pair programming with senior developers",
+    ],
+    technologies: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+  },
+]

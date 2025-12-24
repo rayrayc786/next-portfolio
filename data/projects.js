@@ -1,0 +1,66 @@
+export const projects = [
+  {
+    id: 1,
+    title: "E-Commerce Platform",
+    description:
+      "A full-featured e-commerce platform with product management, cart functionality, and secure checkout. Built with modern React patterns and optimized for performance.",
+    image: "/modern-ecommerce-interface.png",
+    technologies: ["Next.js", "React", "Stripe", "Tailwind CSS", "Node.js"],
+    liveUrl: "https://ecommerce-demo.example.com",
+    githubUrl: "https://github.com/rahularora/ecommerce-platform",
+    featured: true,
+  },
+  {
+    id: 2,
+    title: "Task Management App",
+    description:
+      "Collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
+    image: "/task-management-dashboard.png",
+    technologies: ["React", "Firebase", "Material-UI", "Framer Motion"],
+    liveUrl: "https://taskmanager-demo.example.com",
+    githubUrl: "https://github.com/rahularora/task-manager",
+    featured: true,
+  },
+  {
+    id: 3,
+    title: "Weather Dashboard",
+    description:
+      "Beautiful weather dashboard with location search, 7-day forecast, and interactive charts. Integrated with OpenWeather API.",
+    image: "/weather-dashboard-ui-dark-mode.jpg",
+    technologies: ["React", "Chart.js", "OpenWeather API", "CSS Modules"],
+    liveUrl: "https://weather-demo.example.com",
+    githubUrl: "https://github.com/rahularora/weather-dashboard",
+    featured: false,
+  },
+  {
+    id: 4,
+    title: "Portfolio Generator",
+    description:
+      "A tool to help developers create beautiful portfolio websites using customizable templates and themes.",
+    image: "/portfolio-website-builder.png",
+    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "MDX"],
+    liveUrl: "https://portfolio-gen.example.com",
+    githubUrl: "https://github.com/rahularora/portfolio-generator",
+    featured: true,
+  },
+  {
+    id: 5,
+    title: "Blog Platform",
+    description: "Modern blogging platform with markdown support, syntax highlighting, and SEO optimization.",
+    image: "/blog-platform-clean-design.jpg",
+    technologies: ["Next.js", "MDX", "Prisma", "PostgreSQL"],
+    liveUrl: "https://blog-platform.example.com",
+    githubUrl: "https://github.com/rahularora/blog-platform",
+    featured: false,
+  },
+  {
+    id: 6,
+    title: "Recipe Finder",
+    description: "Search and discover recipes with detailed instructions, ingredients, and nutritional information.",
+    image: "/recipe-app-food-interface.jpg",
+    technologies: ["React", "Spoonacular API", "Styled Components"],
+    liveUrl: "https://recipe-finder.example.com",
+    githubUrl: "https://github.com/rahularora/recipe-finder",
+    featured: false,
+  },
+]
