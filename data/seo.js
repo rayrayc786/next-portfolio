@@ -1,42 +1,57 @@
 export const seo = {
   home: {
-    title: "Rahul Arora | Frontend Developer",
+    title: "Rahul | Frontend Developer | React & Next.js",
     description:
-      "Experienced Frontend Developer specializing in React, Next.js, and modern web technologies. Building beautiful, performant web applications.",
-    keywords: "Frontend Developer, React Developer, Next.js, JavaScript, Web Development, UI/UX",
+      "Frontend Developer with 3+ years experience building SaaS, ecommerce and scalable web applications using React.js and Next.js.",
+    keywords:
+      "Rahul Frontend Developer, React Developer, Next.js Developer, JavaScript Developer",
   },
+
   about: {
-    title: "About | Rahul Arora",
+    title: "About Rahul | Frontend Developer",
     description:
-      "Learn more about Rahul Arora, a Frontend Developer with 3+ years of experience in building modern web applications.",
-    keywords: "About, Frontend Developer, React, JavaScript, Professional Profile",
+      "Learn more about Rahul, a Frontend Developer specializing in React.js, Next.js, TypeScript and performance optimization.",
+    keywords:
+      "About Rahul Developer, React Developer Profile, Next.js Developer",
   },
+
   experience: {
-    title: "Experience | Rahul Arora",
-    description: "Professional experience and career journey of Rahul Arora as a Frontend Developer.",
-    keywords: "Work Experience, Frontend Developer, Career, Professional History",
+    title: "Rahul Work Experience | Frontend Developer",
+    description:
+      "Professional work experience of Rahul as a Frontend Developer working on SaaS, ecommerce and enterprise applications.",
+    keywords:
+      "Frontend Developer Experience, React Developer Experience, Next.js Developer",
   },
+
   projects: {
-    title: "Projects | Rahul Arora",
+    title: "Rahul Projects | React & Next.js Applications",
     description:
-      "Portfolio of web development projects by Rahul Arora, showcasing expertise in React, Next.js, and modern frontend technologies.",
-    keywords: "Projects, Portfolio, Web Development, React Projects, Next.js Projects",
+      "Explore projects built by Rahul including ecommerce platforms, SaaS dashboards and scalable web applications.",
+    keywords:
+      "React Projects, Next.js Projects, Rahul Portfolio Projects",
   },
+
   blogs: {
-    title: "Blog | Rahul Arora",
+    title: "Rahul Blog | Frontend Development Articles",
     description:
-      "Technical articles and insights on frontend development, React, Next.js, and modern web technologies.",
-    keywords: "Blog, Technical Writing, Frontend Development, React, Web Development",
+      "Technical articles on React, Next.js, performance optimization and modern frontend development.",
+    keywords:
+      "Frontend Blog, React Blog, Next.js Articles",
   },
+
   education: {
-    title: "Education | Rahul Arora",
+    title: "Rahul Education | Computer Science",
     description:
-      "Educational background and certifications of Rahul Arora in Computer Science and Frontend Development.",
-    keywords: "Education, Certifications, Computer Science, Frontend Development",
+      "Educational background of Rahul including Master's degree in Computer Science from GNDU Amritsar.",
+    keywords:
+      "Rahul Education, Computer Science Degree",
   },
+
   contact: {
-    title: "Contact | Rahul Arora",
-    description: "Get in touch with Rahul Arora for frontend development opportunities, collaborations, or consulting.",
-    keywords: "Contact, Hire Frontend Developer, Freelance Developer, Consultation",
+    title: "Contact Rahul | Frontend Developer",
+    description:
+      "Get in touch with Rahul for frontend development opportunities, collaborations or freelance projects.",
+    keywords:
+      "Hire Frontend Developer, Contact Rahul",
   },
 }
