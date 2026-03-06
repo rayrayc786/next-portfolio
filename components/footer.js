@@ -61,7 +61,7 @@ export function Footer() {
               >
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a
+              {/* <a
                 href={profile.social.twitter}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -78,7 +78,7 @@ export function Footer() {
                 aria-label="CodePen"
               >
                 <Code2 className="h-5 w-5" />
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
