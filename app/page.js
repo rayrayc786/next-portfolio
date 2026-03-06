@@ -126,7 +126,7 @@ export default function HomePage() {
                 >
                   <Linkedin className="h-6 w-6" />
                 </a>
-                <a
+                {/* <a
                   href={profile.social.twitter}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -143,7 +143,7 @@ export default function HomePage() {
                   aria-label="CodePen"
                 >
                   <Code2 className="h-6 w-6" />
-                </a>
+                </a> */}
               </motion.div>
             </motion.div>
           </div>
@@ -449,7 +449,7 @@ export default function HomePage() {
                             >
                               <Linkedin className="h-5 w-5" />
                             </a>
-                            <a
+                            {/* <a
                               href={profile.social.twitter}
                               target="_blank"
                               rel="noopener noreferrer"
@@ -457,7 +457,7 @@ export default function HomePage() {
                               aria-label="Twitter"
                             >
                               <Twitter className="h-5 w-5" />
-                            </a>
+                            </a> */}
                           </div>
                         </div>
                       </div>
